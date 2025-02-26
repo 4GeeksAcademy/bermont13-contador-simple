@@ -9,3 +9,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.botones{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    fontsize display: 80px;
+    
+}
